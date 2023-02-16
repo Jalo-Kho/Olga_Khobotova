@@ -1,0 +1,19 @@
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="9.85294" x2="19.99999" y1="9.85294" x1="-0.14705" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="9.41177" x2="-0.44117" y1="6.32353" x1="4.26471" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="10.73529" x2="0.29412" y1="13.52941" x1="4.26471" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="12.94118" x2="42.0588" y1="12.94118" x1="42.20586" stroke="#000" fill="none"/>
+  <path d="m0.14706,10c0,0.14706 0,0.29412 0,0.44118l0.14706,0l0,0.14706" id="svg_5" stroke="#000" fill="none"/>
+  <ellipse ry="5.88235" rx="10.14705" id="svg_12" cy="9.41177" cx="9.85294" stroke="#000" fill="#BBBBBB"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_13" y2="9.55882" x2="19.85293" y1="9.41177" x1="0.29412" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_14" y2="9.55882" x2="0.29412" y1="7.05883" x1="5.14706" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_15" y2="9.55882" x2="0.29412" y1="11.61765" x1="5.29412" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_16" y2="31.0294" x2="26.47058" y1="31.0294" x1="26.61764" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_17" y2="2.50001" x2="-21.76469" y1="2.50001" x1="-21.61763" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_18" y2="30.14705" x2="-37.49997" y1="30.14705" x1="-37.64703" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_19" y2="6.47059" x2="-38.23527" y1="-3.67646" x1="-4.11764" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_20" y2="14.2647" x2="-27.0588" y1="14.41176" x1="-27.0588" stroke="#000" fill="none"/>
+ </g>
+</svg>
