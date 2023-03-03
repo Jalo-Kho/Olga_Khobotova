@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            border-color: gray;
+            border-style: solid;
+            border-radius: 0 25px;
+            width: 650px;
+            padding: 10px;
+        }
+        a img{
+            width:50px;
+            height:50px;
+            position:absolute;
+            visibility:hidden;
+        }
+        a:hover >img
+        {
+        visibility:visible;
+        }
+        li::before{content: url(blank.jfif);}
+        ul{list-style-type: none;}
+    </style>
+    
+</head>
+<body>
+    <h1>Форматы файлов</h1>
+    <div>.DOC или .doc (от англю. <img src="strelka.png"><a href="strelka.png">document</a>) - расширение имени файла, используемое для файлов,<br>
+         представляющих текст, с разметкой или без. Расширение .DOC часто использовалось для<br>
+         обозначения простых текстовых файлов без формирования, однако позже стало<br>
+         использоваться для двоичных форматов с разметкой.<br>
+         <a href="word.jfif">Документ MS Word</a> <img src="word.jfif">     
+    </div>
+    <div>Portable Document Format (<img src="strelka.png"><a href="pdf.png">PDF</a>) - межплатформенный формат электронных документов,<br>
+        разработанный фирмой Adobe Systems с использованием ряда возможностей языка<br>
+        Postscript.<br>
+        <a href="pdf.png">Документ PDF</a> <img src="pdf.png">
+    </div>
+    <div>
+        ZIP - популярный формат сжатия данных и архивации файлов. Файл в этом формате<br>
+        обычно имеет расширение <img src="strelka.png"><a href="comp.png">.zip</a> и хранит в сжатом или несжатом виде один или несколько<br>
+        файлов, которые можно из него извлечь путем распаковки с помощью специальной<br>
+        программы.<br>
+        <a href="comp.gif">Архив.</a> <img src="comp.gif">
+    </div>
+    <h2>Это список файлов</h2>
+    <ul>
+        <li><a src="#">Документ MS Word<img src="word.jfif"></a><br></li>
+        <li><a src="#">Документ PDF<img src="pdf.png"></a> <br></li>
+        <li><a src="#">Архив<img src="comp.gif"></a><br></li>
+    </ul>
+    <img src="blank.jfif"><a src="#">Документ MS Word<img src="word.jfif"></a><br> <!--второй вариант-->
+    <img src="blank.jfif"><a src="#">Документ PDF<img src="pdf.png"></a> <br> <!--второй вариант-->
+    <img src="blank.jfif"><a src="#">Архив<img src="comp.gif"></a><br> <!--второй вариант-->
+</body>
+</html>
